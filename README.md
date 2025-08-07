@@ -17,7 +17,7 @@ This is a simple calculator written in Java, featuring:
 Make sure you have **Java 21** and **Maven** installed.
 
 ```bash
-git clone https://github.com/ton-pseudo/java-calculator.git
+git clone https://github.com/BiigSaam/java-calculator.git
 cd java-calculator
 mvn compile exec:java -Dexec.mainClass="calculator.App"
 ```
