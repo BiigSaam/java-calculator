@@ -1,4 +1,4 @@
-# 🧮 Java Calculator
+# Java Calculator
 
 This is a simple calculator written in Java, featuring:
 
@@ -20,11 +20,13 @@ Make sure you have **Java 21** and **Maven** installed.
 git clone https://github.com/ton-pseudo/java-calculator.git
 cd java-calculator
 mvn compile exec:java -Dexec.mainClass="calculator.App"
+```
 
 ## 🧪 Run Tests
 
 ```bash
 mvn test
+```
 
 ##📂 Project Structure
 
@@ -38,3 +40,4 @@ calculator/
 │       └── CalculatriceTest.java
 ├── pom.xml
 └── README.md
+```
