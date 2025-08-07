@@ -28,7 +28,7 @@ mvn compile exec:java -Dexec.mainClass="calculator.App"
 mvn test
 ```
 
-##📂 Project Structure
+## 📂 Project Structure
 
 ```bash
 calculator/
